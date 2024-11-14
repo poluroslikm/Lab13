@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\Poluroslik M\source\repos\Project7\FileName.c(16,16): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Project7\FileName.c(34,1): warning C4716: lab13task2: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Project7\FileName.c(49,1): warning C4716: lab13task3: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Project7\FileName.c(20,1): warning C4716: lab13task1: должна возвращать значение
+  Project6.vcxproj -> C:\Users\Poluroslik M\source\repos\Project7\x64\Debug\Project6.exe
